@@ -1,0 +1,21 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Java build files
+target/
+*.jar
+*.war
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Node.js dependencies
+node_modules/
+dist/
+
+# Ignore logs
+*.log
+
+# Ignore archives
+*.zip
